@@ -1,0 +1,24 @@
+{
+  "name": "restapi-node-docker",
+  "version": "1.0.0",
+  "description": "Restapi node docker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisCusihuaman/RESTAPI-NODE-DOCKER.git"
+  },
+  "author": "Luis Cusihuaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisCusihuaman/RESTAPI-NODE-DOCKER/issues"
+  },
+  "homepage": "https://github.com/LuisCusihuaman/RESTAPI-NODE-DOCKER#readme"
+}
