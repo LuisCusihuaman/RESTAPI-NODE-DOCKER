@@ -4,7 +4,7 @@
   "description": "Restapi node docker",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "morgan": "^1.9.1"
   },
   "devDependencies": {},
